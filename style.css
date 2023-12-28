@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
 .bg-container{
     background-image: url("assets/background picture.png");;
     height: 100vh;
@@ -73,6 +77,6 @@
         margin-left: 90px; 
     }
     .bg-container{
-         height: 300vh;
+         height: 200vh;
     }
 }
