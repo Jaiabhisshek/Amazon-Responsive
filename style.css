@@ -60,7 +60,7 @@
     width: 200px;
 }
 
-@media (max-width: 576px){
+@media (max-width: 1030px){
     .bg-holder{
         flex-direction: column;
         justify-content: space-around;
